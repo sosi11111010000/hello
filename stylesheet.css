@@ -1,0 +1,12 @@
+﻿div {
+	position: relative;
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	border: 4px dotted #C7B097;
+	margin-left: 5px;
+	margin-top: 10px;
+	text-align: center;
+
+}
